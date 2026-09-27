@@ -60,5 +60,5 @@ const animesh = {
 I'm always interested in meeting developers, students, founders, and people building interesting technology.
 
 - 📧 **Email:** intern.animess@gmail.com
-- 💼 **LinkedIn:** [My LinkedIn](YOUR-LINKEDIN-URL)
+- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/siranimess)
 - 🌐 **Portfolio:** Coming Soon
