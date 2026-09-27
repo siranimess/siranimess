@@ -50,11 +50,11 @@ const animesh = {
   ],
 
   currentlyLearning: "How to turn technical ideas into scalable products 🚀"
-};
+};`
 
 ---
 
-**## 🤝 Let's Connect**
+## 🤝 Let's Connect
 
 I'm always interested in meeting developers, students, founders, and people building interesting technology.
 
