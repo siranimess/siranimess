@@ -51,3 +51,15 @@ const animesh = {
 
   currentlyLearning: "How to turn technical ideas into scalable products 🚀"
 };
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting developers, students, founders, and people building interesting technology.
+
+📧 Email: intern.animess@gmail.com
+
+💼 LinkedIn: [My LinkedIn](YOUR-LINKEDIN-URL)
+
+🌐 Portfolio: Coming Soon
