@@ -50,7 +50,8 @@ const animesh = {
   ],
 
   currentlyLearning: "How to turn technical ideas into scalable products 🚀"
-};`
+};
+```
 
 ---
 
